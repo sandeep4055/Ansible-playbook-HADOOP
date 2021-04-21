@@ -1,0 +1,6 @@
+
+jdk_path: "/root/jdk-8u171-linux-x64.rpm"
+hadoop_path: "/root/hadoop-1.2.1-1.x86_64.rpm"
+hdfs_site_file: "/root/ansibleworkspace/task11.1/hdfs-site.xml"
+core_site_file: "/root/ansibleworkspace/task11.1/core-site.xml"
+
